@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.corneliudascalu.intellijdecrypt.Main
+Class-Path: lib/commons-codec-1.9
+Created-By: Corneliu Dascalu <corneliu.dascalu@gmail.com>
