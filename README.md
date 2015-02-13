@@ -1,6 +1,8 @@
 intellij-decrypt
 ================
 
+[![Join the chat at https://gitter.im/corneliudascalu/intellij-decrypt](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/corneliudascalu/intellij-decrypt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Small utility to decrypt passwords saved by Intellij IDEA. It works for passwords you forgot but they are still stored (encrypted) by Intellij IDEA. You have to supply the master password and the path to the security.xml file.
 
 Usage
